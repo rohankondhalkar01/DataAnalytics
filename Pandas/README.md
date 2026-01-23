@@ -7,3 +7,21 @@ This folder contains hands-on **Pandas practice notebooks and datasets** organiz
 
 ## Folder Structure
 
+Pandas/
+│
+├── Day 1/
+│ ├── Basic Python Codes.ipynb
+│ ├── DifferentWaysOfDataLoading.ipynb
+│ ├── Operation.ipynb
+│ └── csv/
+│ └── NewDataForStock.csv
+│
+├── Day 2/
+│ └── csv/
+│ └── NewDataForMissing.csv
+│
+|
+|── Day 3 ETC
+|
+|
+|── README.md
