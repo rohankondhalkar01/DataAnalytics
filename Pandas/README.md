@@ -8,17 +8,17 @@ This folder contains hands-on **Pandas practice notebooks and datasets**, organi
 Pandas/
 │
 ├── Day 1/
-│ ├── Basic Python Codes.ipynb
-│ ├── DifferentWaysOfDataLoading.ipynb
-│ ├── Operation.ipynb
-│ └── csv/
-│ └── NewDataForStock.csv
+│   ├── Basic Python Codes.ipynb
+│   ├── DifferentWaysOfDataLoading.ipynb
+│   ├── Operation.ipynb
+│   └── csv/
+│       └── NewDataForStock.csv
 │
 ├── Day 2/
-│ └── csv/
-│ └── NewDataForMissing.csv
+│   └── csv/
+│       └── NewDataForMissing.csv
 │
-├── Days /
-│ └── (Same as above)
+├── Day 3/
+│   └── (same structure as above)
 │
 └── README.md
