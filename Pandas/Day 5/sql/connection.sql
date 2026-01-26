@@ -15,3 +15,5 @@ FLUSH PRIVILEGES;
 
 SHOW GRANTS FOR 'pandas_user'@'localhost';
 
+-- Run this first for connection building otherwise they will thorw the error 
+
